@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tia Poddar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Triparna Poddar</h1>
 <p align="center">
   <a href="https://github.com/Tia-999"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Master's+Student;AI+and+Data+Science+Enthusiast;Aspiring+Tech+Innovator&center=true&width=500&height=50"></a>
 </p>
