@@ -13,6 +13,7 @@
 - 🚀 Enthusiastic about exploring emerging technologies and frameworks to create impactful solutions
 - 📧 You can reach me by [email](mailto:triparna001@gmail.com)
 
+
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
@@ -44,7 +45,7 @@
         <!-- GitHub -->
         <a href="https://github.com/Tia-999"><img align="center" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
         <!-- Portfolio -->
-        <a href="https://yourportfolio.com"><img align="center" src="https://img.shields.io/badge/Portfolio-%23FF7A00.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+        <a href="https://triparna-interactive-portfolio.vercel.app/"><img align="center" src="https://img.shields.io/badge/Portfolio-%23FF7A00.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
       </td>
     </tr>
   </tbody>
